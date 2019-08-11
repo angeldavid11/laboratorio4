@@ -1,0 +1,13 @@
+{
+  "name": "laboratorio4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Angelquintanilla",
+  "license": "ISC"
+  "mongoose": "^5.0.1",
+  "mongoose-pagination": "^1.0.0"
+}
